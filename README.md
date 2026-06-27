@@ -43,7 +43,6 @@
 
 ---
 
-## Derzeitiges Projekt
 
 **[TutorsMD](https://tutorsmd.net)** - Lernplattform
 
